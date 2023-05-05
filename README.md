@@ -1,4 +1,4 @@
-# hcms
+# HCMS
 This project Health Centre Management system includes registration of patients, storing their 
 details into the system, and also computerized display of availability of facilities like 
 infrastructures. The software has the facility to give a unique id for every patient and stores the 
